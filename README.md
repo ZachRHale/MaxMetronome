@@ -23,7 +23,7 @@ Scores should be saved into a .txt file in this format.
 5, 4 10;
 6, stop;
 ```
-To Explain: 
+###Explanation###
 ```
 0, 4 4; 
 ```
