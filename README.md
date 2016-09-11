@@ -35,7 +35,7 @@ A 3/8 measure.
 ```
 5, 4 10; 
 ```
-This is more complicated.  The bottom number is always the amount of notes inside a WHOLE note. This is sixteenth-note quintuplets
+This is more complicated.  The bottom number is always the amount of notes inside a WHOLE note. This is eighth-note quintuplets
 ```
 6, stop;
 ```
