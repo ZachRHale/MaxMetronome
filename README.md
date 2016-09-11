@@ -1,11 +1,15 @@
 # MaxMetronome
-A Metronome App written in Max/MSP
-#Using the App
-This app was written with the need of practicing contemporary music where time signature changes are frequent.  Therefore, this app uses a "score" to distinguish the measures and there time signatures.
+This app was written with the need of practicing contemporary music where time signature changes are frequent.  Therefore, this app uses a "score" to distinguish the measures and there time signatures. At this time the Metronome is written in Max/MSP but would like to create a web, mobile, and desktop app with these features and a community of scores.
 
 The interesting thing here is that not traditional time signatures can be used as well, such as 3/5, 9/7, 13/24, etc.. This will ultimately make practicing more complicated scores (Ferneyhough) more precise.
 
 Always remember that you must load the score into the app before using.  At this time there is no "save" feature and you must edit the score outside of the app (in TextEdit) and then load it again.
+
+#Using the App
+1. Open the Metronome app
+2. Load in your .txt score file (instructions below)
+3. Click the large speaker icon to enable DSP
+4. Push space bar or click the large box to start the metronome
 
 #The Score
 ***A sample score is included.***
@@ -36,6 +40,8 @@ This is more complicated.  The bottom number is always the amount of notes insid
 6, stop;
 ```
 Stop the Metronome.
+
+*** Please remember that the numbers in the score and in the app are always 1 off.  Ex.  Measure 2 in the .txt score is going to be your **3rd** measure on the app.
 
 
 
