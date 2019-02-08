@@ -5,13 +5,13 @@ The interesting thing here is that not traditional time signatures can be used a
 
 Always remember that you must load the score into the app before using.  At this time there is no "save" feature and you must edit the score outside of the app (in TextEdit) and then load it again.
 
-#Using the App
+# Using the App
 1. Open the Metronome app
 2. Load in your .txt score file (instructions below)
 3. Click the large speaker icon to enable DSP
 4. Push space bar or click the large box to start the metronome
 
-#The Score
+# The Score
 ***A sample score is included.***
 Scores should be saved into a .txt file in this format.
 ```
@@ -19,11 +19,11 @@ Scores should be saved into a .txt file in this format.
 1, 3 8;
 2, 2 4;
 3, 3 16;
-4, 2 4;
+4, 2 4 70;
 5, 4 10;
 6, stop;
 ```
-###Explanation###
+### Explanation
 ```
 0, 4 4; 
 ```
@@ -36,6 +36,10 @@ A 3/8 measure.
 5, 4 10; 
 ```
 This is more complicated.  The bottom number is always the amount of notes inside a WHOLE note. This is eighth-note quintuplets
+```
+4, 2 4 70;
+```
+There is also an option 4th parameter that is the tempo of the bar.  This tempo will continue until the end of the piece or until it is changed.
 ```
 6, stop;
 ```
