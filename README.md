@@ -1,9 +1,9 @@
 # MaxMetronome
-This app was written with the need of practicing contemporary music where time signature changes are frequent.  Therefore, this app uses a "score" to distinguish the measures and there time signatures. At this time the Metronome is written in Max/MSP but would like to create a web, mobile, and desktop app with these features and a community of scores.
+This app was written with the need of practicing contemporary music where time signature changes are frequent.  Therefore, this app uses a "score" to distinguish the measures and their time signatures. At this time the Metronome is written in Max/MSP but would like to create a web, mobile, and desktop app with these features and a community of scores.
 
-The interesting thing here is that not traditional time signatures can be used as well, such as 3/5, 9/7, 13/24, etc.. This will ultimately make practicing more complicated scores (Ferneyhough) more precise.
+The interesting thing here is that not traditional time signatures can be used as well, such as 3/5, 9/7, 13/24, etc.. This will ultimately make practicing more complicated scores (for example, score by composers like Brian Ferneyhough) more precise.
 
-Always remember that you must load the score into the app before using.  At this time there is no "save" feature and you must edit the score outside of the app (in TextEdit) and then load it again.
+Always remember that you must load the score into the app before using.  At this time there is no "save" feature and you must edit the score outside of the app (in your OS text editor) and then load it again.
 
 # Using the App
 1. Open the Metronome app
